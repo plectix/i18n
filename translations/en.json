@@ -1,0 +1,16 @@
+{
+  "dashboard": "Dashboard",
+  "login": "Login",
+  "logout": "Logout",
+  "language": "Language",
+
+  "seconds": "Seconds",
+  "minutes": "Minutes",
+  "hours": "Hours",
+  "days": "Days",
+  "weeks": "Weeks",
+  "months": "Months",
+  "years": "Years",
+
+  "unsafe_changes": "You live dangerously - you have unsaved changes!"
+}

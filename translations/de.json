@@ -1,0 +1,16 @@
+{
+  "dashboard": "Dashboard",
+  "logout": "Abmelden",
+  "login": "Anmelden",
+  "language": "Sprache",
+
+  "seconds": "Sekunden",
+  "minutes": "Minuten",
+  "hours": "Stunden",
+  "days": "Tage",
+  "weeks": "Wochen",
+  "months": "Monate",
+  "years": "Jahre",
+
+  "unsafe_changes": "Du lebst gefährlich - speicher deine Änderungen!"
+}
